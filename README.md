@@ -2,12 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Preview
 ### Home Page
-<img src="public/images/home.png"  alt="home-page">
-
+<p align="center">
+<img src="/public/images/home.png"  alt="home-page" >
+</p>
 ### Weather page
 
-<img src="public/images/weather-page.png"  alt="weather-page">
-
+<p align="center">
+<img src="/public/images/weather-page.png"  alt="weather-page">
+</p>
 ---
 ## Getting Started Weather App
 
