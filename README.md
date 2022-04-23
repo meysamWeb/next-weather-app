@@ -5,12 +5,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <p align="center">
 <img src="/public/images/home.png"  alt="home-page" >
 </p>
+
 ### Weather page
 
 <p align="center">
 <img src="/public/images/weather-page.png"  alt="weather-page">
 </p>
+
 ---
+
 ## Getting Started Weather App
 
 First, run the development server:
